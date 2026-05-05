@@ -1,6 +1,6 @@
 # ⭐ 我的 GitHub Star 收藏
 
-> 76 个仓库 · 每 6 小时自动同步 · 最后更新：2026-05-05 21:28
+> 76 个仓库 · 每 6 小时自动同步 · 最后更新：2026-05-05 21:30
 > 
 > 想手动指定分类？编辑 [`overrides.json`](overrides.json) 即可覆盖自动分类。
 
@@ -10,11 +10,11 @@
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 1,794 | 📡 Your own AI-powered news radar. Generates daily ... | 2026-05-05 |
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 8,459 | Gradio WebUI for creators and developers, featurin... | 2026-05-05 |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 1,795 | 📡 Your own AI-powered news radar. Generates daily ... | 2026-05-05 |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 8,460 | Gradio WebUI for creators and developers, featurin... | 2026-05-05 |
 | [xyTom/snippai](https://github.com/xyTom/snippai) | 1,586 | Snip Anything Solve Everything​ | 2026-05-04 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 60,107 | Skills for Real Engineers. Straight from my .claud... | 2026-05-03 |
-| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 10,652 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-05-02 |
+| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 10,653 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-05-02 |
 | [appergb/openless](https://github.com/appergb/openless) | 822 | Hold a key, speak, release — AI-polished text appe... | 2026-05-02 |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 44,661 | 🕷️ An adaptive Web Scraping framework that handles... | 2026-05-02 |
 
@@ -22,7 +22,7 @@
 
 | 仓库 | ⭐ | 说明 |
 |------|-----|------|
-| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 10,652 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili |
+| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 10,653 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili |
 | [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 8,928 | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 do... |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 6,965 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 2,005 |   用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公... |
@@ -33,7 +33,7 @@
 
 | 仓库 | ⭐ | 说明 |
 |------|-----|------|
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 26,284 | 🎨 Local-first, open-source alternative to Anthropic's Claude... |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 26,288 | 🎨 Local-first, open-source alternative to Anthropic's Claude... |
 | [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 24,232 | 💅🏻 ⚒ A collection of awesome design systems |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 16,422 | Create beautiful slides on the web using Claude's frontend s... |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 11,956 | Huashu Design · HTML-native design skill for Claude Code · C... |
@@ -48,7 +48,7 @@
 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 45,804 | 🎥      Make videos programmatically with React |
 | [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 22,639 | Faster Whisper transcription with CTranslate2 |
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 14,564 | Write HTML. Render video. Built for agents. |
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 8,459 | Gradio WebUI for creators and developers, featuring key TTS ... |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 8,460 | Gradio WebUI for creators and developers, featuring key TTS ... |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 6,320 | Edit videos with coding agents |
 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 5,107 | AutoClip : AI-powered video clipping and highlight generatio... |
 | [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) | 1,589 | A complete video subtitle editing React component with AI-po... |
@@ -58,12 +58,12 @@
 | 仓库 | ⭐ | 说明 |
 |------|-----|------|
 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 62,033 | Transforms complex documents like PDFs and Office docs into ... |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 43,035 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cur... |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 43,037 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cur... |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 28,850 | Agent skills for Obsidian. Teach your agent to use Markdown,... |
 | [tobi/qmd](https://github.com/tobi/qmd) | 24,108 | mini cli search engine for your docs, knowledge bases, meeti... |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 20,283 | PDF Parser for AI-ready data. Automate PDF accessibility. Op... |
 | [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 10,786 | Translate PDF, EPub, webpage, metadata, annotations, notes t... |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 10,191 | An Obsidian plugin that embeds Claude Code/Codex as an AI co... |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 10,192 | An Obsidian plugin that embeds Claude Code/Codex as an AI co... |
 | [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | 7,684 | Everything about note management. All in Zotero. |
 | [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) | 4,066 | PDF2zh for Zotero \| Zotero PDF中文翻译插件 |
 
@@ -79,7 +79,7 @@
 | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 18,745 | Make Any Website & Tool Your CLI. A universal CLI Hub and AI... |
 | [epiral/bb-browser](https://github.com/epiral/bb-browser) | 4,963 | Your browser is the API. CLI + MCP server for AI agents to c... |
 | [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) | 4,556 | Lossless Claw — LCM (Lossless Context Management) plugin for... |
-| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 1,794 | 📡 Your own AI-powered news radar. Generates daily briefings ... |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 1,795 | 📡 Your own AI-powered news radar. Generates daily briefings ... |
 | [joeseesun/qiaomu-opencli-skills](https://github.com/joeseesun/qiaomu-opencli-skills) | 853 | Use opencli CLI to interact with social/content websites (Bi... |
 
 ## 📖 学习 / 方法论
@@ -95,18 +95,18 @@
 
 | 仓库 | ⭐ | 说明 |
 |------|-----|------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 368,514 | Your own personal AI assistant. Any OS. Any Platform. The lo... |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 190,128 | The repo is finally unlocked. enjoy the party! The fastest r... |
-| [obra/superpowers](https://github.com/obra/superpowers) | 178,914 | An agentic skills framework & software development methodolo... |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 173,640 | The agent harness performance optimization system. Skills, i... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 133,564 | The agent that grows with you |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 112,931 | A single CLAUDE.md file to improve Claude Code behavior, der... |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93,223 | A complete AI agency at your fingertips - From frontend wiza... |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 89,499 | Use Garry Tan's exact Claude Code setup: 23 opinionated tool... |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 72,264 | A Claude Code plugin that automatically captures everything ... |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 368,515 | Your own personal AI assistant. Any OS. Any Platform. The lo... |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 190,127 | The repo is finally unlocked. enjoy the party! The fastest r... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 178,917 | An agentic skills framework & software development methodolo... |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 173,641 | The agent harness performance optimization system. Skills, i... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 133,570 | The agent that grows with you |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 112,935 | A single CLAUDE.md file to improve Claude Code behavior, der... |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93,225 | A complete AI agency at your fingertips - From frontend wiza... |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 89,500 | Use Garry Tan's exact Claude Code setup: 23 opinionated tool... |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 72,265 | A Claude Code plugin that automatically captures everything ... |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 60,107 | Skills for Real Engineers. Straight from my .claude director... |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 59,581 | A cross-platform desktop All-in-One assistant tool for Claud... |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 47,959 | The awesome collection of OpenClaw skills. 5,400+ skills fil... |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 59,584 | A cross-platform desktop All-in-One assistant tool for Claud... |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 47,960 | The awesome collection of OpenClaw skills. 5,400+ skills fil... |
 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 30,777 | A community collection of OpenClaw use cases for making life... |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 24,779 | AI agent skill that researches any topic across Reddit, X, Y... |
 | [slopus/happy](https://github.com/slopus/happy) | 20,040 | Mobile and Web client for Codex and Claude Code, with realti... |
