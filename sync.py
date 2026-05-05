@@ -237,12 +237,13 @@ def generate_readme(categorized, total, all_repos):
             continue
         lines.append(f"## {cat_name}")
         lines.append("")
-        lines.append("| 仓库 | ⭐ | 说明 |")
-        lines.append("|------|-----|------|")
+        lines.append("| 仓库 | ⭐ | 说明 | 收藏时间 |")
+        lines.append("|------|-----|------|----------|")
         for r in sorted(repos, key=lambda x: x["stars"], reverse=True):
             desc = r["description"][:60] + "..." if len(r["description"]) > 60 else r["description"]
             desc = desc.replace("|", "\\|")
-            lines.append(f"| [{r['name']}]({r['url']}) | {r['stars']:,} | {desc} |")
+            dt = r["starred_at"][:10]
+            lines.append(f"| [{r['name']}]({r['url']}) | {r['stars']:,} | {desc} | {dt} |")
         lines.append("")
 
     lines.append("---")
