@@ -195,7 +195,7 @@ def load_overrides():
         return {}
 
 
-def generate_readme(categorized, total):
+def generate_readme(categorized, total, all_repos):
     """生成 README.md"""
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     lines = [
@@ -208,6 +208,26 @@ def generate_readme(categorized, total):
         "---",
         "",
     ]
+
+    # 🆕 最近5天内收藏
+    from datetime import timedelta
+    cutoff = datetime.utcnow() - timedelta(days=5)
+    recent = []
+    for r in all_repos:
+        starred = datetime.fromisoformat(r["starred_at"].replace("Z", "+00:00")).replace(tzinfo=None)
+        if starred >= cutoff:
+            recent.append(r)
+    if recent:
+        lines.append("## 🆕 最近收藏（5天内）")
+        lines.append("")
+        lines.append("| 仓库 | ⭐ | 说明 | 收藏时间 |")
+        lines.append("|------|-----|------|----------|")
+        for r in sorted(recent, key=lambda x: x["starred_at"], reverse=True):
+            desc = r["description"][:50] + "..." if len(r["description"]) > 50 else r["description"]
+            desc = desc.replace("|", "\\|")
+            dt = r["starred_at"][:10]
+            lines.append(f"| [{r['name']}]({r['url']}) | {r['stars']:,} | {desc} | {dt} |")
+        lines.append("")
 
     # 按定义顺序输出
     category_order = [c["name"] for c in CATEGORIES] + ["📦 其他"]
@@ -249,7 +269,7 @@ def main():
         categorized[cat].append(repo)
 
     # 生成 README
-    readme = generate_readme(categorized, len(repos))
+    readme = generate_readme(categorized, len(repos), repos)
     with open("README.md", "w") as f:
         f.write(readme)
 
