@@ -20,7 +20,7 @@ jobs:
 
       - name: Sync starred repos
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT }}
         run: python sync.py
 
       - name: Commit and push
