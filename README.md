@@ -1,6 +1,6 @@
 # ⭐ 我的 GitHub Star 收藏
 
-> 117 个仓库 · 每 6 小时自动同步 · 最后更新：2026-08-07 07:07
+> 117 个仓库 · 每 6 小时自动同步 · 最后更新：2026-08-07 12:52
 > 
 > 想手动指定分类？编辑 [`overrides.json`](overrides.json) 即可覆盖自动分类。
 
@@ -10,12 +10,12 @@
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 101,968 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... | 2026-05-29 |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 24,774 | Let's use AI to Earn! | 2026-05-10 |
-| [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 14,831 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | 2026-03-23 |
-| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 14,076 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-05-02 |
-| [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 12,678 | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 do... | 2026-04-13 |
-| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,429 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配... | 2026-03-23 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 102,026 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... | 2026-05-29 |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 24,778 | Let's use AI to Earn! | 2026-05-10 |
+| [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 14,855 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | 2026-03-23 |
+| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 14,087 | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-05-02 |
+| [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 12,683 | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 do... | 2026-04-13 |
+| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,435 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配... | 2026-03-23 |
 | [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) | 1,816 | NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动... | 2026-04-14 |
 | [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | 852 | Claude Code skill for publishing Markdown articles to X (Twi... | 2026-04-14 |
 
@@ -23,143 +23,143 @@
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 107,087 | A collection of DESIGN.md files analysis by popular brand de... | 2026-05-14 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 84,260 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first ... | 2026-04-30 |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 43,632 | AI turns documents or topics into real, native PowerPoint de... | 2026-07-21 |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 27,067 | Create beautiful slides on the web using a coding agent's fr... | 2026-04-02 |
-| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 25,630 | 💅🏻 ⚒ A collection of awesome design systems | 2026-04-17 |
-| [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 22,596 | Huashu Design · HTML-native design skill for Claude Code · C... | 2026-04-22 |
-| [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) | 7,671 | Open-source Claude Design alternative. One-click import your... | 2026-04-27 |
-| [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | 6,832 | Generate beautiful dark-themed system architecture diagrams ... | 2026-04-15 |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 107,140 | A collection of DESIGN.md files analysis by popular brand de... | 2026-05-14 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 84,317 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first ... | 2026-04-30 |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 43,718 | AI turns documents or topics into real, native PowerPoint de... | 2026-07-21 |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 27,075 | Create beautiful slides on the web using a coding agent's fr... | 2026-04-02 |
+| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 25,634 | 💅🏻 ⚒ A collection of awesome design systems | 2026-04-17 |
+| [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 22,618 | Huashu Design · HTML-native design skill for Claude Code · C... | 2026-04-22 |
+| [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) | 7,673 | Open-source Claude Design alternative. One-click import your... | 2026-04-27 |
+| [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | 6,833 | Generate beautiful dark-themed system architecture diagrams ... | 2026-04-15 |
 | [andyhuo520/html-ppt-designer](https://github.com/andyhuo520/html-ppt-designer) | 116 | HTML PPT Designer v5.2 - 智能演示文稿设计器，将任何内容转化为精致的 HTML 演示文稿 | 2026-04-03 |
 
 ## 🎬 视频 / 多媒体
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 60,565 | 1 min voice data can also be used to train a good TTS model!... | 2026-05-26 |
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 55,711 | 🎥      Make videos programmatically with React | 2026-04-09 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 49,618 | The open-source AI voice studio. Clone, dictate, create. | 2026-05-20 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 39,839 | Write HTML. Render video. Built for agents. | 2026-04-17 |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 35,035 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati... | 2026-05-28 |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 32,068 | SOTA Open Source TTS | 2026-05-28 |
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 24,788 | Faster Whisper transcription with CTranslate2 | 2026-04-28 |
-| [index-tts/index-tts](https://github.com/index-tts/index-tts) | 22,453 | An Industrial-Level Controllable and Efficient Zero-Shot Tex... | 2026-05-28 |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 20,501 | Create polished demo videos without editing skills. Mac/Wind... | 2026-05-26 |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 19,909 | Edit videos with coding agents | 2026-04-27 |
-| [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 13,845 | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama... | 2026-07-08 |
-| [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 13,504 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视... | 2026-07-28 |
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 12,073 | Gradio WebUI for creators and developers, featuring key TTS ... | 2026-05-05 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 9,651 | The Open-Source Elevenlabs alternative AI Voice Clone, Dub, ... | 2026-05-20 |
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 6,293 | AutoClip : AI-powered video clipping and highlight generatio... | 2026-04-15 |
-| [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) | 5,860 | An end-to-end production workspace for AI-generated short dr... | 2026-07-28 |
+| [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 60,573 | 1 min voice data can also be used to train a good TTS model!... | 2026-05-26 |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 55,730 | 🎥      Make videos programmatically with React | 2026-04-09 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 49,649 | The open-source AI voice studio. Clone, dictate, create. | 2026-05-20 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 39,880 | Write HTML. Render video. Built for agents. | 2026-04-17 |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 35,056 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati... | 2026-05-28 |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 32,076 | SOTA Open Source TTS | 2026-05-28 |
+| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 24,792 | Faster Whisper transcription with CTranslate2 | 2026-04-28 |
+| [index-tts/index-tts](https://github.com/index-tts/index-tts) | 22,461 | An Industrial-Level Controllable and Efficient Zero-Shot Tex... | 2026-05-28 |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 20,522 | Create polished demo videos without editing skills. Mac/Wind... | 2026-05-26 |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 19,938 | Edit videos with coding agents | 2026-04-27 |
+| [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 13,855 | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama... | 2026-07-08 |
+| [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 13,520 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视... | 2026-07-28 |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 12,081 | Gradio WebUI for creators and developers, featuring key TTS ... | 2026-05-05 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 9,686 | The Open-Source Elevenlabs alternative AI Voice Clone, Dub, ... | 2026-05-20 |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 6,298 | AutoClip : AI-powered video clipping and highlight generatio... | 2026-04-15 |
+| [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) | 5,861 | An end-to-end production workspace for AI-generated short dr... | 2026-07-28 |
 | [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) | 1,726 | A complete video subtitle editing React component with AI-po... | 2026-04-27 |
-| [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) | 1,665 | "VideoAgent: All-in-One Agentic Framework for Video Understa... | 2026-07-03 |
+| [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) | 1,668 | "VideoAgent: All-in-One Agentic Framework for Video Understa... | 2026-07-03 |
 
 ## 📄 文档 / 知识管理
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 103,657 | Turn any codebase, with its docs, SQL schemas, configs, and ... | 2026-04-07 |
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 77,024 | Transforms complex documents like PDFs and Office docs into ... | 2026-04-07 |
-| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 44,313 | Agent skills for Obsidian. Teach your agent to use Obsidian ... | 2026-04-04 |
-| [tobi/qmd](https://github.com/tobi/qmd) | 28,645 | mini cli search engine for your docs, knowledge bases, meeti... | 2026-04-17 |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,227 | PDF Parser for AI-ready data. Automate PDF accessibility. Op... | 2026-04-22 |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 19,333 | Desktop app to manage markdown knowledge bases | 2026-05-07 |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 14,601 | An Obsidian plugin that embeds Claude Code/Codex as an AI co... | 2026-04-04 |
-| [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 11,488 | Translate PDF, EPub, webpage, metadata, annotations, notes t... | 2026-04-21 |
-| [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | 8,050 | Everything about note management. All in Zotero. | 2026-04-21 |
-| [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) | 5,466 | PDF2zh for Zotero \| Zotero PDF中文翻译插件 | 2026-04-22 |
-| [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) | 4,273 | A self-organizing Obsidian vault that gives AI coding agents... | 2026-05-07 |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 103,803 | Turn any codebase, with its docs, SQL schemas, configs, and ... | 2026-04-07 |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 77,063 | Transforms complex documents like PDFs and Office docs into ... | 2026-04-07 |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 44,337 | Agent skills for Obsidian. Teach your agent to use Obsidian ... | 2026-04-04 |
+| [tobi/qmd](https://github.com/tobi/qmd) | 28,656 | mini cli search engine for your docs, knowledge bases, meeti... | 2026-04-17 |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,243 | PDF Parser for AI-ready data. Automate PDF accessibility. Op... | 2026-04-22 |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 19,343 | Desktop app to manage markdown knowledge bases | 2026-05-07 |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 14,610 | An Obsidian plugin that embeds Claude Code/Codex as an AI co... | 2026-04-04 |
+| [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 11,490 | Translate PDF, EPub, webpage, metadata, annotations, notes t... | 2026-04-21 |
+| [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | 8,054 | Everything about note management. All in Zotero. | 2026-04-21 |
+| [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) | 5,469 | PDF2zh for Zotero \| Zotero PDF中文翻译插件 | 2026-04-22 |
+| [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) | 4,275 | A self-organizing Obsidian vault that gives AI coding agents... | 2026-05-07 |
 
 ## 🔧 开发工具
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 238,383 | The agent harness performance optimization system. Skills, i... | 2026-03-27 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 72,919 | 🕷️ An adaptive Web Scraping framework that handles everythin... | 2026-05-02 |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 60,206 | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬... | 2026-06-28 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 48,668 | Chrome DevTools for coding agents | 2026-04-06 |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 46,423 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as ... | 2026-04-11 |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 40,525 | Open-source, community-driven agent harness | 2026-05-06 |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 32,658 | DeepSeek-native AI coding agent for your terminal. Engineere... | 2026-05-27 |
-| [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | 28,211 | 🔥 Clone and recreate any website as a modern React app in se... | 2026-04-16 |
-| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 27,840 | Make Any Website into CLI & Use your logged-in browser by AI... | 2026-03-30 |
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 21,377 | Elegant reading of real-time and hottest news | 2026-04-15 |
-| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 8,675 | 📡 Your own AI-powered news radar. Generates daily briefings ... | 2026-05-05 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 238,457 | The agent harness performance optimization system. Skills, i... | 2026-03-27 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 72,953 | 🕷️ An adaptive Web Scraping framework that handles everythin... | 2026-05-02 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 60,234 | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬... | 2026-06-28 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 48,689 | Chrome DevTools for coding agents | 2026-04-06 |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 46,452 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as ... | 2026-04-11 |
+| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 40,530 | Open-source, community-driven agent harness | 2026-05-06 |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 32,790 | DeepSeek-native AI coding agent for your terminal. Engineere... | 2026-05-27 |
+| [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | 28,212 | 🔥 Clone and recreate any website as a modern React app in se... | 2026-04-16 |
+| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 27,858 | Make Any Website into CLI & Use your logged-in browser by AI... | 2026-03-30 |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 21,379 | Elegant reading of real-time and hottest news | 2026-04-15 |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 8,686 | 📡 Your own AI-powered news radar. Generates daily briefings ... | 2026-05-05 |
 | [epiral/bb-browser](https://github.com/epiral/bb-browser) | 6,036 | Your browser is the API. CLI + MCP server for AI agents to c... | 2026-03-26 |
 | [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) | 4,887 | Lossless Claw — LCM (Lossless Context Management) plugin for... | 2026-03-19 |
-| [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) | 3,833 | This is a WebUI interface based on CLI-Proxy-API, designed t... | 2026-06-17 |
+| [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) | 3,836 | This is a WebUI interface based on CLI-Proxy-API, designed t... | 2026-06-17 |
 | [joeseesun/qiaomu-opencli-skills](https://github.com/joeseesun/qiaomu-opencli-skills) | 979 | Use opencli CLI to interact with social/content websites (Bi... | 2026-03-23 |
 
 ## 📖 学习 / 方法论
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [byoungd/up](https://github.com/byoungd/up) | 57,734 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离... | 2026-04-27 |
-| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16,587 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 2026-03-23 |
-| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 9,162 | 🚀 World's largest GPT Image 2 prompt library, updated daily ... | 2026-04-27 |
-| [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 4,427 | A curated collection of the strongest NotebookLM slide promp... | 2026-04-03 |
-| [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | 2,846 | 50+ open-source generative AI apps you can clone, deploy, an... | 2026-05-26 |
-| [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1,793 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cine... | 2026-05-17 |
+| [byoungd/up](https://github.com/byoungd/up) | 57,750 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离... | 2026-04-27 |
+| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16,590 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 2026-03-23 |
+| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 9,172 | 🚀 World's largest GPT Image 2 prompt library, updated daily ... | 2026-04-27 |
+| [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 4,430 | A curated collection of the strongest NotebookLM slide promp... | 2026-04-03 |
+| [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | 2,849 | 50+ open-source generative AI apps you can clone, deploy, an... | 2026-05-26 |
+| [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1,797 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cine... | 2026-05-17 |
 
 ## 🤖 Agent / AI 技能框架
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 385,409 | Your own personal AI assistant. Any OS. Any Platform. The lo... | 2026-03-27 |
-| [obra/superpowers](https://github.com/obra/superpowers) | 268,295 | An agentic skills framework & software development methodolo... | 2026-03-26 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,744 | The agent that grows with you | 2026-04-06 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 207,657 | Skills for Real Engineers. Straight from my .agents director... | 2026-05-03 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 200,355 | A single CLAUDE.md file to improve Claude Code behavior, der... | 2026-04-15 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,000 | An agent-managed museum exhibit, built in Rust with Gajae-Co... | 2026-03-31 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 138,994 | A complete AI agency at your fingertips - From frontend wiza... | 2026-03-13 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 126,698 | Use Garry Tan's exact Claude Code setup: 23 opinionated tool... | 2026-03-23 |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 125,257 | A cross-platform desktop All-in-One assistant for Claude Cod... | 2026-04-25 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 89,917 | Persistent Context Across Sessions for Every Agent –  Captur... | 2026-04-03 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 67,868 | Give your AI agent eyes to see the entire internet. Read & s... | 2026-03-26 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 57,543 | AI agent skill that researches any topic across Reddit, X, Y... | 2026-03-29 |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 51,777 | The awesome collection of OpenClaw skills. 5,400+ skills fil... | 2026-03-23 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36,050 | Your Personal AI super intelligence. A brain that builds a l... | 2026-05-22 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 385,449 | Your own personal AI assistant. Any OS. Any Platform. The lo... | 2026-03-27 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 268,500 | An agentic skills framework & software development methodolo... | 2026-03-26 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,882 | The agent that grows with you | 2026-04-06 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 208,154 | Skills for Real Engineers. Straight from my .agents director... | 2026-05-03 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 200,436 | A single CLAUDE.md file to improve Claude Code behavior, der... | 2026-04-15 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,004 | An agent-managed museum exhibit, built in Rust with Gajae-Co... | 2026-03-31 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 139,045 | A complete AI agency at your fingertips - From frontend wiza... | 2026-03-13 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 126,737 | Use Garry Tan's exact Claude Code setup: 23 opinionated tool... | 2026-03-23 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 125,377 | A cross-platform desktop All-in-One assistant for Claude Cod... | 2026-04-25 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 89,954 | Persistent Context Across Sessions for Every Agent –  Captur... | 2026-04-03 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 68,103 | Give your AI agent eyes to see the entire internet. Read & s... | 2026-03-26 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 57,566 | AI agent skill that researches any topic across Reddit, X, Y... | 2026-03-29 |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 51,787 | The awesome collection of OpenClaw skills. 5,400+ skills fil... | 2026-03-23 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36,056 | Your Personal AI super intelligence. A brain that builds a l... | 2026-05-22 |
 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,670 | A community collection of OpenClaw use cases for making life... | 2026-03-27 |
-| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 28,123 | An enhanced tool for CodexApp, striving to make Codex better... | 2026-06-02 |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 27,890 | Garry's Opinionated OpenClaw/Hermes Agent Brain | 2026-04-17 |
-| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 24,682 |  | 2026-03-23 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 23,665 | Turn Claude Code into a full game dev studio — 49 AI agents,... | 2026-03-24 |
-| [slopus/happy](https://github.com/slopus/happy) | 23,191 | Mobile and Web client for Codex and Claude Code, with realti... | 2026-04-14 |
-| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 19,328 | 数字生命卡兹克开源的 AI Skills 合集 \| Agent Skills: leader（帮你定义目标）, neat... | 2026-04-12 |
-| [tanweai/pua](https://github.com/tanweai/pua) | 19,276 | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent... | 2026-04-03 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 18,934 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Co... | 2026-03-17 |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 13,355 | Codex Dream Skin | 2026-07-17 |
-| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,263 |  | 2026-04-16 |
-| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 13,155 | Official AI skills for GSAP. These skills teach AI coding ag... | 2026-05-24 |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 9,804 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工... | 2026-05-06 |
+| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 28,165 | An enhanced tool for CodexApp, striving to make Codex better... | 2026-06-02 |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 27,920 | Garry's Opinionated OpenClaw/Hermes Agent Brain | 2026-04-17 |
+| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 24,694 |  | 2026-03-23 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 23,680 | Turn Claude Code into a full game dev studio — 49 AI agents,... | 2026-03-24 |
+| [slopus/happy](https://github.com/slopus/happy) | 23,204 | Mobile and Web client for Codex and Claude Code, with realti... | 2026-04-14 |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 19,350 | 数字生命卡兹克开源的 AI Skills 合集 \| Agent Skills: leader（帮你定义目标）, neat... | 2026-04-12 |
+| [tanweai/pua](https://github.com/tanweai/pua) | 19,284 | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent... | 2026-04-03 |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 18,945 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Co... | 2026-03-17 |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 13,377 | Codex Dream Skin | 2026-07-17 |
+| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,266 |  | 2026-04-16 |
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 13,178 | Official AI skills for GSAP. These skills teach AI coding ag... | 2026-05-24 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 9,839 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工... | 2026-05-06 |
 | [slavingia/skills](https://github.com/slavingia/skills) | 9,769 | Based on The Minimalist Entrepreneur by Sahil Lavingia | 2026-03-29 |
-| [eze-is/web-access](https://github.com/eze-is/web-access) | 8,579 | 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 | 2026-04-03 |
-| [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) | 4,668 | All-in-one New-API/Sub2API account hub: balance/usage dashbo... | 2026-05-21 |
-| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 3,884 | 162 production-ready AI agent templates for OpenClaw. SOUL.m... | 2026-03-17 |
-| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 3,174 | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） | 2026-06-25 |
-| [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | 3,042 | CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 | 2026-06-25 |
-| [Open-Less/openless](https://github.com/Open-Less/openless) | 2,976 | Hold a key, speak, release — AI-polished text appears at you... | 2026-05-02 |
+| [eze-is/web-access](https://github.com/eze-is/web-access) | 8,585 | 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 | 2026-04-03 |
+| [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) | 4,669 | All-in-one New-API/Sub2API account hub: balance/usage dashbo... | 2026-05-21 |
+| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 3,888 | 162 production-ready AI agent templates for OpenClaw. SOUL.m... | 2026-03-17 |
+| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 3,177 | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） | 2026-06-25 |
+| [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | 3,052 | CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 | 2026-06-25 |
+| [Open-Less/openless](https://github.com/Open-Less/openless) | 2,977 | Hold a key, speak, release — AI-polished text appears at you... | 2026-05-02 |
 | [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) | 2,032 | A clean web dashboard for OpenClaw. Connect your Gateway, ma... | 2026-03-24 |
-| [xqnode/codex-zh-CN](https://github.com/xqnode/codex-zh-CN) | 145 | Windows 版 Codex Desktop 简体中文语言包，一键安装汉化 | 2026-06-10 |
+| [xqnode/codex-zh-CN](https://github.com/xqnode/codex-zh-CN) | 147 | Windows 版 Codex Desktop 简体中文语言包，一键安装汉化 | 2026-06-10 |
 | [izmppj740/codex-offline-windows](https://github.com/izmppj740/codex-offline-windows) | 7 | Codex 0.135.0 Windows x64 全量离线安装包，支持 Win10/Win11/Windows Ser... | 2026-06-22 |
 
 ## 📦 其他
 
 | 仓库 | ⭐ | 说明 | 收藏时间 |
 |------|-----|------|----------|
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 186,223 | Open-source Windows and Office activator featuring HWID, Oho... | 2026-05-22 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 56,423 | The design language that makes your AI harness better at des... | 2026-07-09 |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 8,976 | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻... | 2026-05-10 |
-| [farzaa/clicky](https://github.com/farzaa/clicky) | 7,320 |  | 2026-04-09 |
-| [sw33tLie/macshot](https://github.com/sw33tLie/macshot) | 2,838 | Feature-packed native macOS screenshot & recording tool: ann... | 2026-05-06 |
-| [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) | 2,656 | An open-source native macOS screenshot and screen recording ... | 2026-05-08 |
-| [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) | 2,281 | Real-time AI coding agent status panel in your MacBook notch... | 2026-04-07 |
-| [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) | 2,113 | 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台 | 2026-07-17 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 186,256 | Open-source Windows and Office activator featuring HWID, Oho... | 2026-05-22 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 56,544 | The design language that makes your AI harness better at des... | 2026-07-09 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 8,983 | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻... | 2026-05-10 |
+| [farzaa/clicky](https://github.com/farzaa/clicky) | 7,321 |  | 2026-04-09 |
+| [sw33tLie/macshot](https://github.com/sw33tLie/macshot) | 2,843 | Feature-packed native macOS screenshot & recording tool: ann... | 2026-05-06 |
+| [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) | 2,662 | An open-source native macOS screenshot and screen recording ... | 2026-05-08 |
+| [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) | 2,282 | Real-time AI coding agent status panel in your MacBook notch... | 2026-04-07 |
+| [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) | 2,117 | 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台 | 2026-07-17 |
 | [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler) | 1,799 | 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI ... | 2026-07-01 |
 | [xyTom/snippai](https://github.com/xyTom/snippai) | 1,740 | Snip Anything Solve Everything​ | 2026-05-04 |
-| [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) | 1,709 |  | 2026-05-21 |
+| [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) | 1,714 |  | 2026-05-21 |
 | [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) | 630 | Dynamic Island for MacOS — with Extensions | 2026-04-17 |
 | [BruceLanLan/bruceblue-ghostty-config](https://github.com/BruceLanLan/bruceblue-ghostty-config) | 437 | 我的Ghostty终极配置 - Claude最佳伴侣（零报错版） | 2026-04-07 |
 
